@@ -1,6 +1,5 @@
 ## Hi there 👋
-## I am Namita Krishnakumar. A lifelong student of Biology with an immense interest in coding. Computational biology is the field that excites me the most as it combines 2 of the subjects I love- Biology and Computer science!
-
+## I am Namita Krishnakumar. A lifelong student of Biology with an immense interest in coding. 
 ## Graduate: PG Diploma in Bioinformatics and Synthetic Biology at Chanakya University (CGPA: 9.95, Rank 1).
 ## BE Biotechnology
 
